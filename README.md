@@ -1,2 +1,2 @@
-# VScode_to GIT
+# VScode to GIT
 Sample linking repo
